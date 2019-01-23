@@ -1,9 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Наталья Мальцева](https://up.htmlacademy.ru/htmlcss/24/user/392661).
-* Наставник: `Неизвестно`.
-
----
+* Наставник: Кисуня
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
